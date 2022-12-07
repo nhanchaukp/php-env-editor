@@ -1,5 +1,5 @@
 {
-    "name": "k-adam/env-editor",
+    "name": "nhanchaukp/env-editor",
     "description": ".env editor library",
     "type": "library",
     "keywords": [
@@ -28,7 +28,7 @@
         }
     },
     "require": {
-        "php": ">=8.0"
+        "php": ">=7.4"
     },
     "require-dev": {
         "phpunit/phpunit": "9.5"
