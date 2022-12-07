@@ -8,7 +8,7 @@ A `.env` file editor library for PHP.
 Using [Composer](http://getcomposer.org/):
 
 ```
-composer require k-adam/env-editor
+composer require nhanchaukp/env-editor
 ```
 
 ## Usage example
